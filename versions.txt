@@ -1,6 +1,8 @@
-v1
-v2
-v3
-v4
-v5
-v6
+list={}
+list['v1']=v1
+list['v2']=v2
+list['v3']=v3
+list['v4']=v4
+list['v5']=v5
+list['v6']=v6
+return list
